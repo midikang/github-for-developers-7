@@ -2,3 +2,4 @@
 - Shanghai, China
 - Apple
 - Inline Skating
+- Blue
