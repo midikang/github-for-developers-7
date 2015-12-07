@@ -3,3 +3,4 @@
 - Apple
 - Inline Skating
 - Blue
+- Chinese
