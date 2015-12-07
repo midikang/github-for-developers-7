@@ -1,4 +1,4 @@
-Midi Kang
-Shanghai, China
-Apple
-Inline Skating
+- Midi Kang
+- Shanghai, China
+- Apple
+- Inline Skating
